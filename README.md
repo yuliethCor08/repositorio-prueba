@@ -9,3 +9,4 @@
 - Combinar ramas
 - Gestion de ramas
 - Restaurar cambios
+- Resolver conflictos
