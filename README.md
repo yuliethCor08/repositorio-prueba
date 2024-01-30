@@ -8,3 +8,4 @@
 - Crear ramas
 - Combinar ramas
 - Gestion de ramas
+- Restaurar cambios
